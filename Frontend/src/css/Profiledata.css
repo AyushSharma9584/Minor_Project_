@@ -1,0 +1,51 @@
+
+/* .user-profile{
+    margin:0;
+    padding: 40px 50px;
+    color: white;
+    height: 83%;
+    width: 83%; 
+    position: fixed;
+    left: 17%;
+    top: 100px;
+} */
+
+.user_data{
+    height: 200px;
+    /* background-color: brown; */
+    width: 200px;
+    text-align: left;
+    display: inline-block;
+}
+
+.user_name{
+    font-size: 29px;
+    font-weight: bold;
+}
+
+.user_id{
+    font-size: 12px;
+}
+
+/* account details */
+.account_details{
+    display: inline-block;
+    /* height: 200px;*/
+    width: 500px;
+    /* background-color: red; */
+    position: relative;
+    left: 50px;
+}
+
+.blog-button{
+    position: relative;
+    left: 30px;
+}
+
+
+.horizontal-divider{
+    margin-top: 0px;
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, white, rgba(9, 84, 132), white);
+}

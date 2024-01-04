@@ -1,0 +1,11 @@
+.add-blog{
+    /* background-color:lavender; */
+    margin:0;
+    padding: 50px;
+    height: 83%;
+    width: 83%; 
+    position: absolute;
+    left: 17%;
+    top: 100px;
+    color: white;
+}

@@ -1,0 +1,31 @@
+.random{
+    /* background-color:lavender; */
+    margin:0;
+    padding: 50px;
+    /* height: 83%; */
+    min-height: 550px;
+    width: 83%; 
+    position: absolute;
+    left: 15%;
+    top: 50px;
+    color: white;
+    background-image: linear-gradient(to right, #252525 0%, black 100%);
+}
+
+.random-list-items{
+    list-style: none;
+    display: inline-block;
+    margin: 5px 20px;
+}
+
+.random-links {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+.random-links:hover{
+    color: grey;
+    text-decoration:undeline;
+}
+

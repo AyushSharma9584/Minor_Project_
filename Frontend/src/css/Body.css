@@ -1,0 +1,15 @@
+.container{
+    z-index: -1;
+    margin:0;
+    padding: 40px 50px;
+    color: white;
+    height: 83.7%;
+    /* min-height: 100%; */
+    width: 83%; 
+    /* background-color:aqua; */
+    /* background-image: linear-gradient(to right, #d2ffff, #0694c6); */
+    background-image: linear-gradient(to right, #252525 0%, black 100%);
+    position: absolute;
+    left: 17%;
+    top: 100px;
+}
